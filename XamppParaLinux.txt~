@@ -18,9 +18,6 @@ XamppParaLinux.txt
 -	para hacer comit en github:
 	git commit -m "Mensaje del commit"
 
-- 	cuando tengo un nuevo archivo se usa para agregarlo el comando:
-	git add *
-
 -	para subirl el proyecto a github uso: 
 	git push origin master
 
@@ -52,5 +49,4 @@ XamppParaLinux.txt
 
 
 
-  
   
