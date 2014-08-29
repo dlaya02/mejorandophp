@@ -1,0 +1,52 @@
+XamppParaLinux.txt
+
+-	para ir a la raiz:
+	cd /
+
+- 	para navegar por carpetas he ir atras:
+	cd ..
+
+-	para ver donde estas:
+	pwd
+
+-	para ver el contenido de donde estas parado:
+	ls
+
+-	para hacer clone en github (desde la carpeta de en donde quieres clonar):
+	git clone url.... https://github.com/dlaya02/mejorandophp
+
+-	para hacer comit en github:
+	git commit -m "Mensaje del commit"
+
+-	para subirl el proyecto a github uso: 
+	git push origin master
+
+
+-	para otorgar permisos a una carpeta (en este caso htdocs)
+	sudo chmod -R 777 /opt/lampp/htdocs/ 
+
+
+
+-	carpeta donde tengo los proyectos:
+	documentos: /opt/lampp/htdocs
+
+-	para ingresar al xampp:
+	sudo /opt/lampp/lampp start
+	sudo /opt/lampp/lampp restart
+
+
+-	para abrir los host por sublimetext por consola se usa:
+  	sudo subl /etc/hosts
+
+
+-	para descomentar el virtualhost por primera vez se usa el comando:
+	sudo subl /opt/lampp/etc/httpd.conf
+
+
+-	para crear un virtualhost nuevo se usa:
+  	sudo subl /opt/lampp/etc/extra/httpd-vhosts.conf
+
+
+
+
+  
